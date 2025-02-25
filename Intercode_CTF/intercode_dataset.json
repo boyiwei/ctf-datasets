@@ -1,0 +1,702 @@
+{
+    "Challenge #95": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #95",
+        "path": "crypto/95"
+    },
+    "Challenge #92": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #92",
+        "path": "crypto/92"
+    },
+    "Challenge #57": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #57",
+        "path": "crypto/57"
+    },
+    "Challenge #69": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #69",
+        "path": "crypto/69"
+    },
+    "Challenge #56": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #56",
+        "path": "crypto/56"
+    },
+    "Challenge #58": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #58",
+        "path": "crypto/58"
+    },
+    "Challenge #93": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #93",
+        "path": "crypto/93"
+    },
+    "Challenge #73": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #73",
+        "path": "crypto/73"
+    },
+    "Challenge #80": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #80",
+        "path": "crypto/80"
+    },
+    "Challenge #74": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #74",
+        "path": "crypto/74"
+    },
+    "Challenge #86": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #86",
+        "path": "crypto/86"
+    },
+    "Challenge #72": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #72",
+        "path": "crypto/72"
+    },
+    "Challenge #96": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #96",
+        "path": "crypto/96"
+    },
+    "Challenge #55": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #55",
+        "path": "crypto/55"
+    },
+    "Challenge #97": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #97",
+        "path": "crypto/97"
+    },
+    "Challenge #90": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #90",
+        "path": "crypto/90"
+    },
+    "Challenge #79": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #79",
+        "path": "crypto/79"
+    },
+    "Challenge #12": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #12",
+        "path": "crypto/12"
+    },
+    "Challenge #5": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "crypto",
+        "challenge": "Challenge #5",
+        "path": "crypto/5"
+    },
+    "Challenge #61": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #61",
+        "path": "forensics/61"
+    },
+    "Challenge #59": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #59",
+        "path": "forensics/59"
+    },
+    "Challenge #66": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #66",
+        "path": "forensics/66"
+    },
+    "Challenge #67": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #67",
+        "path": "forensics/67"
+    },
+    "Challenge #94": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #94",
+        "path": "forensics/94"
+    },
+    "Challenge #87": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #87",
+        "path": "forensics/87"
+    },
+    "Challenge #1": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #1",
+        "path": "forensics/1"
+    },
+    "Challenge #8": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #8",
+        "path": "forensics/8"
+    },
+    "Challenge #65": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #65",
+        "path": "forensics/65"
+    },
+    "Challenge #64": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #64",
+        "path": "forensics/64"
+    },
+    "Challenge #70": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #70",
+        "path": "forensics/70"
+    },
+    "Challenge #3": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #3",
+        "path": "forensics/3"
+    },
+    "Challenge #71": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #71",
+        "path": "forensics/71"
+    },
+    "Challenge #2": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #2",
+        "path": "forensics/2"
+    },
+    "Challenge #14": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "forensics",
+        "challenge": "Challenge #14",
+        "path": "forensics/14"
+    },
+    "Challenge #32": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #32",
+        "path": "misc/32"
+    },
+    "Challenge #35": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #35",
+        "path": "misc/35"
+    },
+    "Challenge #60": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #60",
+        "path": "misc/60"
+    },
+    "Challenge #34": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #34",
+        "path": "misc/34"
+    },
+    "Challenge #33": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #33",
+        "path": "misc/33"
+    },
+    "Challenge #20": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #20",
+        "path": "misc/20"
+    },
+    "Challenge #18": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #18",
+        "path": "misc/18"
+    },
+    "Challenge #27": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #27",
+        "path": "misc/27"
+    },
+    "Challenge #9": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #9",
+        "path": "misc/9"
+    },
+    "Challenge #11": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #11",
+        "path": "misc/11"
+    },
+    "Challenge #7": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #7",
+        "path": "misc/7"
+    },
+    "Challenge #29": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #29",
+        "path": "misc/29"
+    },
+    "Challenge #42": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #42",
+        "path": "misc/42"
+    },
+    "Challenge #6": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #6",
+        "path": "misc/6"
+    },
+    "Challenge #28": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #28",
+        "path": "misc/28"
+    },
+    "Challenge #17": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #17",
+        "path": "misc/17"
+    },
+    "Challenge #19": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #19",
+        "path": "misc/19"
+    },
+    "Challenge #26": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #26",
+        "path": "misc/26"
+    },
+    "Challenge #21": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #21",
+        "path": "misc/21"
+    },
+    "Challenge #38": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #38",
+        "path": "misc/38"
+    },
+    "Challenge #36": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #36",
+        "path": "misc/36"
+    },
+    "Challenge #31": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #31",
+        "path": "misc/31"
+    },
+    "Challenge #30": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #30",
+        "path": "misc/30"
+    },
+    "Challenge #37": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #37",
+        "path": "misc/37"
+    },
+    "Challenge #39": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #39",
+        "path": "misc/39"
+    },
+    "Challenge #63": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #63",
+        "path": "misc/63"
+    },
+    "Challenge #41": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #41",
+        "path": "misc/41"
+    },
+    "Challenge #24": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #24",
+        "path": "misc/24"
+    },
+    "Challenge #23": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #23",
+        "path": "misc/23"
+    },
+    "Challenge #4": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #4",
+        "path": "misc/4"
+    },
+    "Challenge #40": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #40",
+        "path": "misc/40"
+    },
+    "Challenge #22": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #22",
+        "path": "misc/22"
+    },
+    "Challenge #25": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "misc",
+        "challenge": "Challenge #25",
+        "path": "misc/25"
+    },
+    "Challenge #50": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #50",
+        "path": "rev/50"
+    },
+    "Challenge #68": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #68",
+        "path": "rev/68"
+    },
+    "Challenge #51": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #51",
+        "path": "rev/51"
+    },
+    "Challenge #0": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #0",
+        "path": "rev/0"
+    },
+    "Challenge #45": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #45",
+        "path": "rev/45"
+    },
+    "Challenge #10": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #10",
+        "path": "rev/10"
+    },
+    "Challenge #75": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #75",
+        "path": "rev/75"
+    },
+    "Challenge #81": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #81",
+        "path": "rev/81"
+    },
+    "Challenge #44": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #44",
+        "path": "rev/44"
+    },
+    "Challenge #43": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #43",
+        "path": "rev/43"
+    },
+    "Challenge #98": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #98",
+        "path": "rev/98"
+    },
+    "Challenge #53": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #53",
+        "path": "rev/53"
+    },
+    "Challenge #99": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #99",
+        "path": "rev/99"
+    },
+    "Challenge #52": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #52",
+        "path": "rev/52"
+    },
+    "Challenge #46": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #46",
+        "path": "rev/46"
+    },
+    "Challenge #83": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #83",
+        "path": "rev/83"
+    },
+    "Challenge #77": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #77",
+        "path": "rev/77"
+    },
+    "Challenge #48": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #48",
+        "path": "rev/48"
+    },
+    "Challenge #84": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #84",
+        "path": "rev/84"
+    },
+    "Challenge #15": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #15",
+        "path": "rev/15"
+    },
+    "Challenge #85": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #85",
+        "path": "rev/85"
+    },
+    "Challenge #76": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #76",
+        "path": "rev/76"
+    },
+    "Challenge #82": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #82",
+        "path": "rev/82"
+    },
+    "Challenge #49": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #49",
+        "path": "rev/49"
+    },
+    "Challenge #47": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #47",
+        "path": "rev/47"
+    },
+    "Challenge #78": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #78",
+        "path": "rev/78"
+    },
+    "Challenge #13": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "rev",
+        "challenge": "Challenge #13",
+        "path": "rev/13"
+    },
+    "Challenge #16": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "web",
+        "challenge": "Challenge #16",
+        "path": "web/16"
+    },
+    "Challenge #54": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "web",
+        "challenge": "Challenge #54",
+        "path": "web/54"
+    },
+    "Challenge #89": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "pwn",
+        "challenge": "Challenge #89",
+        "path": "pwn/89"
+    },
+    "Challenge #88": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "pwn",
+        "challenge": "Challenge #88",
+        "path": "pwn/88"
+    },
+    "Challenge #91": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "pwn",
+        "challenge": "Challenge #91",
+        "path": "pwn/91"
+    },
+    "Challenge #62": {
+        "year": "0",
+        "event": "Intercode",
+        "category": "pwn",
+        "challenge": "Challenge #62",
+        "path": "pwn/62"
+    }
+}
