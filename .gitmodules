@@ -1,0 +1,7 @@
+[submodule "cybench"]
+	path = cybench
+	url = git@github.com:boyiwei/cybench-dataset.git
+	branch = nyu-format
+[submodule "NYU_CTF_Bench"]
+	path = NYU_CTF_Bench
+	url = git@github.com:boyiwei/NYU_CTF_Bench.git
