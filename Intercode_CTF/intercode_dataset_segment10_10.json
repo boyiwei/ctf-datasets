@@ -1,0 +1,72 @@
+{
+  "Challenge #49": {
+    "year": "0",
+    "event": "Intercode",
+    "category": "rev",
+    "challenge": "Challenge #49",
+    "path": "rev/49"
+  },
+  "Challenge #47": {
+    "year": "0",
+    "event": "Intercode",
+    "category": "rev",
+    "challenge": "Challenge #47",
+    "path": "rev/47"
+  },
+  "Challenge #78": {
+    "year": "0",
+    "event": "Intercode",
+    "category": "rev",
+    "challenge": "Challenge #78",
+    "path": "rev/78"
+  },
+  "Challenge #13": {
+    "year": "0",
+    "event": "Intercode",
+    "category": "rev",
+    "challenge": "Challenge #13",
+    "path": "rev/13"
+  },
+  "Challenge #16": {
+    "year": "0",
+    "event": "Intercode",
+    "category": "web",
+    "challenge": "Challenge #16",
+    "path": "web/16"
+  },
+  "Challenge #54": {
+    "year": "0",
+    "event": "Intercode",
+    "category": "web",
+    "challenge": "Challenge #54",
+    "path": "web/54"
+  },
+  "Challenge #89": {
+    "year": "0",
+    "event": "Intercode",
+    "category": "pwn",
+    "challenge": "Challenge #89",
+    "path": "pwn/89"
+  },
+  "Challenge #88": {
+    "year": "0",
+    "event": "Intercode",
+    "category": "pwn",
+    "challenge": "Challenge #88",
+    "path": "pwn/88"
+  },
+  "Challenge #91": {
+    "year": "0",
+    "event": "Intercode",
+    "category": "pwn",
+    "challenge": "Challenge #91",
+    "path": "pwn/91"
+  },
+  "Challenge #62": {
+    "year": "0",
+    "event": "Intercode",
+    "category": "pwn",
+    "challenge": "Challenge #62",
+    "path": "pwn/62"
+  }
+}
