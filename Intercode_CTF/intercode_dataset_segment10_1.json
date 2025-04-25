@@ -1,11 +1,4 @@
 {
-  "Challenge #95": {
-    "year": "0",
-    "event": "Intercode",
-    "category": "crypto",
-    "challenge": "Challenge #95",
-    "path": "crypto/95"
-  },
   "Challenge #92": {
     "year": "0",
     "event": "Intercode",
@@ -26,13 +19,6 @@
     "category": "crypto",
     "challenge": "Challenge #69",
     "path": "crypto/69"
-  },
-  "Challenge #56": {
-    "year": "0",
-    "event": "Intercode",
-    "category": "crypto",
-    "challenge": "Challenge #56",
-    "path": "crypto/56"
   },
   "Challenge #58": {
     "year": "0",

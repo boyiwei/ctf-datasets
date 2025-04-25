@@ -41,20 +41,6 @@
     "challenge": "Challenge #54",
     "path": "web/54"
   },
-  "Challenge #89": {
-    "year": "0",
-    "event": "Intercode",
-    "category": "pwn",
-    "challenge": "Challenge #89",
-    "path": "pwn/89"
-  },
-  "Challenge #88": {
-    "year": "0",
-    "event": "Intercode",
-    "category": "pwn",
-    "challenge": "Challenge #88",
-    "path": "pwn/88"
-  },
   "Challenge #91": {
     "year": "0",
     "event": "Intercode",
